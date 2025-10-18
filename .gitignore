@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# Jupyter / VSCode
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Output files
+catplot.png
+heatmap.png
+
+# System
+.DS_Store
+Thumbs.db
